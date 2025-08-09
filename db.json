@@ -1,0 +1,120 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "product 1",
+      "price": 800,
+      "colors": [
+        "#3ae8bo",
+        "#19afd0"
+      ],
+      "description": "description 1",
+      "images": [
+        "/m-product/product-1.webp",
+        "/m-product/product-2.webp",
+        "/m-product/product-3.webp",
+        "/m-product/product-4.webp"
+      ],
+      "isFavorite": false,
+      "isInCart": false,
+      "createdAt": "2025-07-05T09:08:32.661Z"
+    },
+    {
+      "id": 2,
+      "title": "product 2",
+      "price": 1000,
+      "colors": [
+        "#6967ce",
+        "#ffb900"
+      ],
+      "description": "description 2",
+      "images": [
+        "/m-product/product-5.webp",
+        "/m-product/product-6.webp",
+        "/m-product/product-7.webp",
+        "/m-product/product-8.webp"
+      ],
+      "isFavorite": false,
+      "isInCart": false,
+      "createdAt": "2025-07-05T09:08:32.661Z"
+    },
+    {
+      "id": 3,
+      "title": "product 3",
+      "price": 1200,
+      "colors": [
+        "#fd636b",
+        "#19afd0"
+      ],
+      "description": "description 3",
+      "images": [
+        "/m-product/product-9.webp",
+        "/m-product/product-10.webp",
+        "/m-product/product-11.webp",
+        "/m-product/product-12.webp"
+      ],
+      "isFavorite": false,
+      "isInCart": false,
+      "createdAt": "2025-07-05T09:08:32.661Z"
+    },
+    {
+      "id": 4,
+      "title": "product 4",
+      "price": 750,
+      "colors": [
+        "#fd636b",
+        "#19afd0"
+      ],
+      "description": "description 4",
+      "images": [
+        "/m-product/product-13.webp",
+        "/m-product/product-14.webp",
+        "/m-product/product-15.webp",
+        "/m-product/product-16.webp"
+      ],
+      "isFavorite": false,
+      "isInCart": false,
+      "createdAt": "2025-07-05T09:08:32.661Z"
+    },
+    {
+      "id": 5,
+      "title": "product 5",
+      "price": 1200,
+      "colors": [
+        "#fd636b",
+        "#19afd0"
+      ],
+      "description": "description 5",
+      "images": [
+        "/m-product/product-17.webp",
+        "/m-product/product-18.webp",
+        "/m-product/product-19.webp",
+        "/m-product/product-20.webp"
+      ],
+      "isFavorite": false,
+      "isInCart": false,
+      "createdAt": "2025-07-05T09:08:32.661Z"
+    },
+    {
+      "id": 6,
+      "title": "product 6",
+      "price": 1200,
+      "colors": [
+        "#fd636b",
+        "#19afd0"
+      ],
+      "description": "description 6",
+      "images": [
+        "/m-product/product-21.webp",
+        "/m-product/product-22.webp",
+        "/m-product/product-23.webp",
+        "/m-product/product-24.webp"
+      ],
+      "isFavorite": false,
+      "isInCart": false,
+      "createdAt": "2025-07-05T09:08:32.661Z"
+    }
+  ],
+  "wishlist": [],
+  "cart": []
+}
