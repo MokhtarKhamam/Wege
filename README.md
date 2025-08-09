@@ -21,7 +21,7 @@ npm (comes with Node.js)<br />
 
 ## Project Structure
 
-src/
+src/<br />
  ├── app/   define route for app router<br />
  ├── components/   for shared component and ui<br />
  ├── section/      define components hooks apis types and slices related to a route  <br /> 
